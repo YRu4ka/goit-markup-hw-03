@@ -173,7 +173,7 @@ header {
   cursor: pointer;
 }
 
-.page-name-features {
+.visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -324,7 +324,7 @@ header {
 .page-taxi,
 .page-screen,
 .page-online {
-  flex-basis: calc((100% - 3 * 48px) / 3);
+  flex-basis: calc((100% - 48px) / 3);
 }
 
 .name-banking,

@@ -55,7 +55,7 @@ img {
   padding: 120px 0;
 }
 
-header {
+.page-header {
   border-bottom: 1px solid #e7e9fc;
 }
 
@@ -294,6 +294,7 @@ header {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
+  margin-top: 8px;
 }
 
 .portfolio-conteiner-ul {
